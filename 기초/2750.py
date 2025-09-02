@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/2750
 n = int(input())
 
 a = []
